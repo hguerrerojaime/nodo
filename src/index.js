@@ -1,3 +1,1 @@
-import Container from './container/Container'
-
-export { Container }
+export { Container } from './container/Container'
