@@ -1,7 +1,7 @@
 {
   "name": "nodo",
   "version": "0.1.0",
-  "description": "",
+  "description": "Node dependency injection",
   "scripts": {
     "test": "node_modules/.bin/mocha test/**/*.spec.js --require @babel/register"
   },
