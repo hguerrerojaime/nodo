@@ -1,5 +1,5 @@
 import { expect } from 'chai'
-import Container from '../../src/container/Container'
+import { Container } from '../../src'
 import { sleep } from '../testUtils'
 
 describe('Container', () => {
