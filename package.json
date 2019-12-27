@@ -1,5 +1,5 @@
 {
-  "name": "nodo",
+  "name": "nodo-di",
   "version": "0.1.0",
   "description": "Node dependency injection",
   "scripts": {
