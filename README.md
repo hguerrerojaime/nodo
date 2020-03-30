@@ -1,2 +1,3 @@
 # NODO
-Node dependency Injection
+Node multi-purpose dependency Injection
+
